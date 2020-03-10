@@ -1,6 +1,9 @@
 //
-//  CollectionViewDataSourceController.swift
-//  Cabana
+// ReusableView
+// CollectionViewDataSourceController.swift
+//
+// Created by Eugene Kazaev in 2018-2020.
+// Distributed under the MIT license.
 //
 
 import Foundation

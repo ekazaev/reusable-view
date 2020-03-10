@@ -1,6 +1,9 @@
 //
-//  SimpleScrollViewNextPageRequester.swift
-//  Cabana
+// ReusableView
+// SimpleScrollViewNextPageRequester.swift
+//
+// Created by Eugene Kazaev in 2018-2020.
+// Distributed under the MIT license.
 //
 
 import Foundation

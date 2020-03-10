@@ -1,6 +1,9 @@
 //
-//  UITableViewDelegateSplitter.swift
-//  Cabana
+// ReusableView
+// UITableViewDelegateSplitter.swift
+//
+// Created by Eugene Kazaev in 2018-2020.
+// Distributed under the MIT license.
 //
 
 import Foundation
